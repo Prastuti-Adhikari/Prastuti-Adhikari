@@ -1,5 +1,5 @@
 - 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning App Development in Flutter
 - 💞️ I’m looking to collaborate on Web Development and Machine Learning Projects
 - 📫 You can reach out to me via prastutia8@gmail.com
 - 😄 Pronouns: She/Her
