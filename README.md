@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Prastuti Adhikari!</h1>
+<h1 align="center">👋 Hi, I am Prastuti Adhikari!</h1>
 <h3 align="center">I am passionate about AI, ML and app development!</h3>
 
 - I’m currently learning **App Development with Flutter**
