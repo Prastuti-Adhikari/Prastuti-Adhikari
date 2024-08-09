@@ -4,7 +4,6 @@
 
 <h3 align="center">I am passionate about AI, ML and app development!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prastuti-Adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="Prastuti-Adhikari" /> </p>
-<img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 
 - 🔭 I’m currently learning **App Development with Flutter**
@@ -26,3 +25,13 @@
 <a href="https://fb.com/prastuti.adhikari.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prastuti.adhikari.5" height="30" width="40" /></a>
 <a href="https://instagram.com/pfarfromhome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pfarfromhome" height="30" width="40" /></a>
 </p>
+
+<h3 align="center"> My Stats 📊</h3>
+<br>
+<div align=center>
+  <img width=290 src="https://github-readme-stats.vercel.app/api/top-langs?username=Prastuti-Adhikari&show_icons=true&locale=en&layout=compact&border_radius=10" alt="Prastuti-Adhikari" />
+    
+  <img width=325 src="https://github-readme-stats.vercel.app/api?username=Prastuti-Adhikari&show_icons=true&locale=en&border_radius=10" />
+  <br/>
+  <img width=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prastuti-Adhikari&border_radius=10" alt="top langs" />
+</div>
