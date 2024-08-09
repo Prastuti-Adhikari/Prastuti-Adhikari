@@ -33,5 +33,4 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api?username=Prastuti-Adhikari&show_icons=true&locale=en&border_radius=10" />
   <br/>
   <img width=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prastuti-Adhikari&border_radius=10" alt="top langs" />
-  <hr/>
 </div>
