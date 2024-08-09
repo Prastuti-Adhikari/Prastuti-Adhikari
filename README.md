@@ -1,11 +1,14 @@
-- 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning App Development in Flutter
-- 💞️ I’m looking to collaborate on Web Development and Machine Learning Projects
-- 📫 You can reach out to me via prastutia8@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ I try solving the puzzle of my thoughts using words. 
+<h1 align="center">Hi, I am Prastuti Adhikari!</h1>
+<h3 align="center">I am passionate about AI, ML and app development!</h3>
 
-<!---
-Prastuti-Adhikari/Prastuti-Adhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m currently learning **App Development with Flutter**
+
+- Ask me about **App and website Development**
+
+- I’m looking to collaborate on **Web Development, App Development and Machine Learning Projects**
+
+- How to reach me **prastutia8@gmail.com**
+
+- Pronouns: **She/Her**
+
+- Fun fact **I try solving the puzzle of my thoughts using words!**
