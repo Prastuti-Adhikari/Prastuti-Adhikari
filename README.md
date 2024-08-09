@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I am Prastuti Adhikari!</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Prastuti+Adhikari!;+I'm+a+Designer;+Mobile+Application+Developer;" />
+</h1>
+
 <h3 align="center">I am passionate about AI, ML and app development!</h3>
 
 - I’m currently learning **App Development with Flutter**
