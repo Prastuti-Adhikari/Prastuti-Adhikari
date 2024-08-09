@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Prastuti+Adhikari!;+I'm+a+Designer;+Mobile+Application+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Prastuti+Adhikari!;+I'm+a+Designer;+Mobile+Application+Developer;+AI,+ML,+Data+Science+Enthusiast;" />
 </h1>
 
 <h3 align="center">I am passionate about AI, ML and app development!</h3>
